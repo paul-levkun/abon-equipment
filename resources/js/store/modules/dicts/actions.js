@@ -350,16 +350,9 @@ export default {
 		.then(res => {
 			context.commit('setIsLoading', false)
 			window.location.href = `${window.location.protocol}//${window.location.hostname}:${window.location.port}/storage/${res.data}`
-			console.log("report Finish", res.data)
+							console.log("report Finish", res.data)
+			console.log("123")
 
-			// axios.delete('/api/delete-report', { data: { file_path: res.data } })
-			// axios.delete(`/api/deleteFile/${res.data}`) неправильно
-			// .then(response => {
-			// 	console.log('Файл видалено з сервера', response.data);
-			// })
-			// .catch(error => {
-			// 	console.error('Помилка під час видалення файлу:', error);
-			// });
 		})
 	},
 }
