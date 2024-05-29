@@ -1,0 +1,31 @@
+{
+  "Password": "Пароль",
+  "Confirm Password": "Підтвердьте пароль",
+  "Name": "Ім'я",
+  "Register": "Реєстрація",
+  "Already registered?": "Вже зареєстровані?",
+  "Forgot your password?": "Забули пароль?",
+  "Remember me": "Запам'ятати мене",
+  "Log in": "Вхід",
+  "Log out": "Вийти",
+  "Save": "Зберегти",
+  "Cancel": "Відміна",
+  "Profile": "Профіль",
+  "Dashboard": "Панель користувача",
+  "Infoboard": "Інформація",
+  "Update your account's profile information and email address.": 
+    "Оновіть дані профілю та електронну адресу свого облікового запису.",
+  "Current Password": "Поточний пароль",
+  "New Password": "Новий пароль", 
+  "Delete Account": "Видалити акаунт",
+  "Are you sure you want to delete your account?": 
+    "Ви впевнені, що хочете видалити свій обліковий запис?",
+  "Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.":
+    "Після видалення вашого облікового запису всі його ресурси та дані буде остаточно видалено. Будь ласка, введіть свій пароль, щоб підтвердити, що ви хочете остаточно видалити свій обліковий запис.",
+  "Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.":
+    "Після видалення вашого облікового запису всі його ресурси та дані буде остаточно видалено. Перед видаленням свого облікового запису завантажте будь-які дані чи інформацію, які ви хочете зберегти.",
+  "Profile Information": "Інформація по профілю",
+  "Update Password": "Оновити пароль",
+  "Ensure your account is using a long, random password to stay secure.": 
+    "Переконайтеся, що ваш обліковий запис використовує довгий довільний пароль, щоб залишатися в безпеці."
+}
